@@ -2,6 +2,9 @@
 
 I'm Jannik, I live in Hamburg and enjoy tech.
 
+<!-- stolen from https://github.com/mikekavouras/MikeKavouras/blob/master/README.md -->
+![memoji2](memoji2.gif)![memoji1](memoji1.gif)![memoji3](memoji3.gif)
+
 - 👨‍💻 I work as Chapter Lead & *Scala* dev in the Booking Team at [MOIA](https://github.com/moia-dev) ❤️
 - We do some *open-source* there as well, check out [scala-http-client](https://github.com/moia-dev/scala-http-client), or [Scynamo](https://github.com/moia-dev/scynamo/) 🛠
 - I used to do *C#* (that's where [Musicista](https://github.com/JannikArndt/Musicista) comes from) and *COBOL* 🕸 (that when I created [Canal](https://github.com/JannikArndt/Canal)), and lots of database stuff, with *MS SQL, Oracle and PostgreSQL*. Also lots of cloud stuff, and _Big Data_ ™️ (I even did [a contribution to Apack Spark](https://github.com/apache/spark/pull/17832) 🙀). And *Go*. And some *TypeScript*. And lots of *bash* 😂
