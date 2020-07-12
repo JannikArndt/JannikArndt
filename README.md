@@ -3,9 +3,11 @@
 I'm Jannik, I live in Hamburg and enjoy tech.
 
 <!-- stolen from https://github.com/mikekavouras/MikeKavouras/blob/master/README.md -->
-<img src="https://github.com/JannikArndt/JannikArndt/raw/master/memoji2.gif" width="180">
-<img src="https://github.com/JannikArndt/JannikArndt/raw/master/memoji1.gif" width="165">
-<img src="https://github.com/JannikArndt/JannikArndt/raw/master/memoji3.gif" width="180">
+<p align="center">
+  <img src="https://github.com/JannikArndt/JannikArndt/raw/master/memoji2.gif" width="180">
+  <img src="https://github.com/JannikArndt/JannikArndt/raw/master/memoji1.gif" width="165">
+  <img src="https://github.com/JannikArndt/JannikArndt/raw/master/memoji3.gif" width="180">
+</p>
 
 - 👨‍💻 I work as Chapter Lead & *Scala* dev in the Booking Team at [MOIA](https://github.com/moia-dev) ❤️
 - We do some *open-source* there as well, check out [scala-http-client](https://github.com/moia-dev/scala-http-client), or [Scynamo](https://github.com/moia-dev/scynamo/) 🛠
